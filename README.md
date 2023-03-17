@@ -1,4 +1,4 @@
-# Final Visualization Project: US and Chinese Educational Systems
+# Data Visualization Project: US and Chinese Educational Systems
 
 This GitHub repository is a work in progress!
 
