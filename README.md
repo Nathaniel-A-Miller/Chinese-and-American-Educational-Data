@@ -2,7 +2,7 @@
 
 This GitHub repository is a work in progress!
 
-Right now you can look at the Jupyter notebook "Visualization Final Project for Udacity PISA Education Test Scores"
+Right now you can look at the Jupyter notebook **"Visualization Final Project for Udacity PISA Education Test Scores"**
 and see some of my work I created during my Udacity Data Analysis Nanodegree.
 
 I used matplotlib in Python along with some other Python libraries to visualize data on education in China and the USA.
