@@ -1,11 +1,15 @@
-# Data Visualization Project: US and Chinese Educational Systems
+# Welcome to my portfolio!
 
 This GitHub repository is a work in progress!
 
-Right now you can look at the Jupyter notebook **"Visualization Final Project for Udacity PISA Education Test Scores"**
-and see some of my work I created during my Udacity Data Analysis Nanodegree.
+Right now I have two Jupyter notebooks showcasing my technical writing and coding. They're both in this repo. Have a look!
 
-I used matplotlib in Python along with some other Python libraries to visualize data on education in China and the USA.
+The first, **"Cheat at Trig with Python,"** takes a trig problem from a Khan Academy video and shows the reader how it can
+be coded in Python, and then builds on this to show how we can take inputs from the user to answer _any_ question of the kind
+discussed in the video.
+
+The second, **"Visualization Final Project for Udacity PISA Education Test Scores"** is a project from my Udacity Data
+Analysis nanondegree. I used matplotlib in Python along with some other Python libraries to visualize data on education in China and the USA.
 
 Some of the questions the data can help answer are: are Chinese students really better at math? How strongly does
 parents' educational level correlate to their childrens' success in China vs America? Do nerdy students (high-performing
