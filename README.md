@@ -14,7 +14,7 @@ discussed in the video.
 The second, **"Visualization Final Project for Udacity PISA Education Test Scores"** is a project from my Udacity Data
 Analysis nanondegree. I used matplotlib in Python along with some other Python libraries to visualize data on education in China and the USA.
 
-Some of the questions the data can help answer are: are Chinese students really better at math? How strongly does
+The data comes from PISA 2012. Some of the questions the it looks at are: are Chinese students really better at math? How strongly does
 parents' educational level correlate to their childrens' success in China vs America? Do nerdy students (high-performing
 readers) feel at more of a social disadvantage in China vs America?
 
