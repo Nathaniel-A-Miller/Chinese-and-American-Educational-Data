@@ -3,8 +3,9 @@
 This GitHub repository is a work in progress!
 
 Right now I have two Jupyter notebooks showcasing my technical writing and coding. They're both in this repo. Have a look!
-At the moment you can't interact with them if you aren't already a notebook user, but I'll be making them available with Binder
-soon so that you can run the code cells yourself and see the markdown more easily.
+To reproduce the code in an executable environment, check them out on Binder by clicking the badge:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nathaniel-A-Miller/Portfolio/HEAD)
 
 The first, **"Cheat at Trig with Python,"** takes a trig problem from a Khan Academy video and shows the reader how it can
 be coded in Python, and then builds on this to show how we can take inputs from the user to answer _any_ question of the kind
