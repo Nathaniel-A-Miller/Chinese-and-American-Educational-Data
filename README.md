@@ -1,6 +1,6 @@
 # Welcome to my portfolio!
 
-If you are here for content, click on "My Content Portfolio" above for a selection of my pieces.
+If you are here for content writing, click on "Content Portfolio" above for a selection of my pieces.
 
 For my technical writing, I have two Jupyter notebooks showcasing my work with code. They're both in this repo. Have a look!
 To reproduce the code in an executable environment, check them out on Binder by clicking the badge:
