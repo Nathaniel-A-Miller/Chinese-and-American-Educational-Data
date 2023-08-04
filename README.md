@@ -2,6 +2,8 @@
 
 This GitHub repository is a work in progress!
 
+https://docs.google.com/viewer?url=${Content Portfolio.pdf}
+
 Right now I have two Jupyter notebooks showcasing my technical writing and coding. They're both in this repo. Have a look!
 To reproduce the code in an executable environment, check them out on Binder by clicking the badge:
 
